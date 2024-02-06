@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://www.linkedin.com/in/raveemgouda97">Raveem Gouda</a>
+<h1 align="center"> Hi there 👋 I'm <a href="https://www.linkedin.com/in/raveemgouda97">Raveem Gouda</a></h1>
 
 <!--
 **Raveem13/Raveem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
