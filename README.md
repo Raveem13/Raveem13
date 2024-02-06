@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🎓 I've studied B.E. in Electronics & Communication Engineering at BIT, Bangalore, and M.Tech. in Embedded Systems at <a href=https://nielit.gov.in/index.php>N.I.E.L.I.T Calicut</a>
 - 🧑🏽‍💻 I write code in C/C++, Assembly, Python, Verilog
 - 👯 I’m looking to broaden my knowledge and skills while significantly contributing to the organization's growth.
-- 🤔 I’m looking for help with ...
 
   ![](https://leetcard.jacoblin.cool/raveemKG?animation=false)
