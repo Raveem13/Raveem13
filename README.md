@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to broaden my knowledge and skills while significantly contributing to the organization's growth.
 
 <!--  ![](https://leetcard.jacoblin.cool/raveemKG?animation=false) -->
+![](https://leetcard.jacoblin.cool/raveemKG?animation=false)
