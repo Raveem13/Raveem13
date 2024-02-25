@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🏢 I’ve worked in Capgemini India, AMD - Xilinx India
 - 🎓 I've studied B.E. in Electronics & Communication Engineering at BIT, Bangalore, and M.Tech. in Embedded Systems at <a href=https://nielit.gov.in/index.php>N.I.E.L.I.T Calicut</a>
 - 🧑🏽‍💻 I write code in C, C++, Python, JavaScript, Assembly, Verilog.
-- 👯 I’m looking to broaden my knowledge and skills while significantly contributing to the organization's growth.
+- 👯 I’m looking for opportunities where I significantly contribute to the organization's growth.
 
 <!--  ![](https://leetcard.jacoblin.cool/raveemKG?animation=false) -->
 <!--   <p align="center"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raveem13&layout=compact&langs_count=8&card_width=320" /> </p>  -->
