@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to broaden my knowledge and skills while significantly contributing to the organization's growth.
 
 <!--  ![](https://leetcard.jacoblin.cool/raveemKG?animation=false) -->
- <p align="center"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raveem13&layout=compact&langs_count=8&card_width=320" /> </p> 
+<!--   <p align="center"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raveem13&layout=compact&langs_count=8&card_width=320" /> </p>  -->
