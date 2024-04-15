@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏢 I’ve worked in Capgemini India, AMD - Xilinx India
-- 🎓 I've studied B.E. in Electronics & Communication Engineering at BIT, Bangalore, and M.Tech. in Embedded Systems at <a href=https://nielit.gov.in/index.php>N.I.E.L.I.T Calicut</a>
+- 🎓 I've studied B.E. in Electronics & Communication Engineering at BIT, Bangalore, and M.Tech. in Embedded Systems at N.I.E.L.I.T Calicut.
 - 🧑🏽‍💻 I write code in C, C++, Python, JavaScript, Assembly, Verilog.
 - 👯 I’m looking for opportunities where I significantly contribute to the organization's growth.
 
